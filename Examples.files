@@ -1,0 +1,11 @@
+CMakeFiles/CompilerIdC/CMakeCCompilerId.c
+CMakeFiles/CompilerIdCXX/CMakeCXXCompilerId.cpp
+client.cpp
+main.cpp
+server.cpp
+clientsync.h
+clientsync.cpp
+SocketClient.cpp
+SocketServer.cpp
+PracticalSocket.h
+PracticalSocket.cpp
