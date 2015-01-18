@@ -7,6 +7,10 @@
 #include <netinet/in.h>
 #include <netdb.h>
 
+/**
+* Error handler
+*
+*/
 void error(const char *msg)
 {
     perror(msg);
@@ -55,3 +59,4 @@ int main(int argc, char *argv[])
     close(sockfd);
     return 0;
 }
+//
